@@ -1,0 +1,1 @@
+Learning Management Service . User creates the Program with ProgramId and creates the batch Id for that Program. Then User creates the User with role Admin,Staff and Student. and Update it ,change the role for given user and assign the Program/batch for the user.And create the login credentials.
